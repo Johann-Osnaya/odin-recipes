@@ -1,0 +1,16 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: antiquewhite;
+}
+
+h1 {
+    text-align: center;
+}
+
+.recipe {
+    font-size: 18px;
+}
+
+a {
+    color: black;
+}
